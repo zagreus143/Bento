@@ -162,7 +162,7 @@ const CONFIG = {
       links: [
         {
           name: "VK",
-          link: "https://vk.com",
+          link: "https://vk.com/im",
         },
         {
           name: "LinkedIn",
