@@ -151,7 +151,7 @@ const CONFIG = {
           link: "https://vim-adventures.com/",
         },
         {
-          name: "10f",
+          name: "QA",
           link: "https://https://vladislaveremeev.gitbook.io/qa_bible",
         },
       ],
