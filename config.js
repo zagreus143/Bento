@@ -152,7 +152,7 @@ const CONFIG = {
         },
         {
           name: "10f",
-          link: "https://10fastfingers.com/typing-test/english",
+          link: "https://https://vladislaveremeev.gitbook.io/qa_bible",
         },
       ],
     },
