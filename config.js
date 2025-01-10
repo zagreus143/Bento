@@ -147,11 +147,11 @@ const CONFIG = {
           link: "https://monkeytype.com",
         },
         {
-          name: "Vim",
-          link: "https://vim-adventures.com/",
+          name: "Notion",
+          link: "https://paint-ceder-cb5.notion.site/a9ef441f4dc54fb485c3fbc07d69d128",
         },
         {
-          name: "QA",
+          name: "QA Bible",
           link: "https://https://vladislaveremeev.gitbook.io/qa_bible",
         },
       ],
