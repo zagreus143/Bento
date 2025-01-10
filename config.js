@@ -152,7 +152,7 @@ const CONFIG = {
         },
         {
           name: "QA Bible",
-          link: "https://https://vladislaveremeev.gitbook.io/qa_bible",
+          link: "https://vladislaveremeev.gitbook.io/qa_bible",
         },
       ],
     },
